@@ -1,6 +1,6 @@
 # Clash / Mihomo 分流规则镜像仓库
 
-本仓库为 Clash / Mihomo 系列配置及相关客户端提供分流规则集镜像备份，主要收录常用海外服务、流媒体及应用规则，防止上游仓库异动或删库导致订阅分流失效。
+本仓库为 Clash / Mihomo 系列配置及相关客户端提供分流规则集镜像备份，主要收录常用海外服务、流媒体及应用规则。
 
 ---
 
@@ -33,20 +33,6 @@
 
 ---
 
-## 替换与使用说明
-
-在 Clash / OpenClash / Egern 的配置文件中，只需将原有的 `xiaolin-007/clash` 链接平滑替换为本仓库链接即可无缝切换：
-
-```yaml
-# 原始链接示例：
-url: https://fastly.jsdelivr.net/gh/xiaolin-007/clash@main/rule/YouTube.txt
-
-# 替换后的本仓库镜像链接：
-url: https://fastly.jsdelivr.net/gh/Niklaus88/rules@main/rule/YouTube.txt
-```
-
----
-
 ## 规则特性
 
 - 格式规范：全量保留 Classical YAML / txt 结构，适配 Clash Meta (Mihomo)、Clash Verge Rev、FlClash、OpenClash 及 Egern。
@@ -54,6 +40,3 @@ url: https://fastly.jsdelivr.net/gh/Niklaus88/rules@main/rule/YouTube.txt
 
 ---
 
-## 🙏 感谢
-
-- [xiaolin-007 / clash](https://github.com/xiaolin-007/clash)
