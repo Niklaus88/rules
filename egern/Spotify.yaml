@@ -1,0 +1,14 @@
+# 规则名称: Spotify
+# 适用于: Egern 原生 YAML 规则集
+
+domain_suffix_set:
+  - pscdn.co
+  - scdn.co
+  - spoti.fi
+  - spotify.com
+  - spotifycdn.com
+  - spotifycdn.net
+
+domain_keyword_set:
+  - -spotify-
+  - spotify.com
