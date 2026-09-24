@@ -1,5 +1,5 @@
 # 规则名称: BilibiliHMT
-# 适用于: Egern 原生 YAML 规则集 (覆盖 B站全生态及港澳台专用 CDN 与 gRPC 鉴权接口)
+# 适用于: Egern 原生 YAML 规则集 (覆盖 B站全生态 .com/.cn 及港澳台专用 CDN 与 gRPC 鉴权接口)
 
 domain_set:
   - p-bstarstatic.akamaized.net
@@ -12,14 +12,18 @@ domain_suffix_set:
   - acg.tv
   - acgvideo.com
   - b23.tv
+  - biliapi.cn
   - biliapi.com
   - biliapi.net
+  - bilibili.cn
   - bilibili.co
   - bilibili.com
   - bilibili.tv
   - biligame.com
+  - biligame.net
   - bilivideo.cn
   - bilivideo.com
+  - bsbsb.top
   - hdslb.com
 
 ip_cidr_set:
