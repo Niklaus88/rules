@@ -1,0 +1,11 @@
+# 规则名称: Bahamut
+# 适用于: Egern 原生 YAML 规则集
+
+domain_set:
+  - bahamut.akamaized.net
+  - gamer-cds.cdn.hinet.net
+  - gamer2-cds.cdn.hinet.net
+
+domain_suffix_set:
+  - bahamut.com.tw
+  - gamer.com.tw
