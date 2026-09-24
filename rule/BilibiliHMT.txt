@@ -7,14 +7,18 @@ payload:
   - DOMAIN-SUFFIX,acg.tv
   - DOMAIN-SUFFIX,acgvideo.com
   - DOMAIN-SUFFIX,b23.tv
+  - DOMAIN-SUFFIX,biliapi.cn
   - DOMAIN-SUFFIX,biliapi.com
   - DOMAIN-SUFFIX,biliapi.net
+  - DOMAIN-SUFFIX,bilibili.cn
   - DOMAIN-SUFFIX,bilibili.co
   - DOMAIN-SUFFIX,bilibili.com
   - DOMAIN-SUFFIX,bilibili.tv
   - DOMAIN-SUFFIX,biligame.com
+  - DOMAIN-SUFFIX,biligame.net
   - DOMAIN-SUFFIX,bilivideo.cn
   - DOMAIN-SUFFIX,bilivideo.com
+  - DOMAIN-SUFFIX,bsbsb.top
   - DOMAIN-SUFFIX,hdslb.com
   - IP-CIDR,45.43.32.234/32,no-resolve
   - IP-CIDR,103.151.150.0/23,no-resolve
